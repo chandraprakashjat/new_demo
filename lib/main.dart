@@ -44,6 +44,7 @@ class MyHomePage extends StatefulWidget {
   // always marked "final".
 
   final String title;
+  final String name = 'Prakash Chandra jat';
 
   @override
   _MyHomePageState createState() => _MyHomePageState();
